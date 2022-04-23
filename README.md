@@ -19,9 +19,9 @@ Engineer
                                 <a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
                     </p>
  Socials :<p align="left">
-                   <a href="https://www.github.com/Harish2930" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                   <a href="https://www.linkedin.com/in/harish-srinivasan-223026197" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-                   <a href="https://www.twitter.com/HarishS_033?t=94mXO3DyJkKh_VeR8A6USw&s=09" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+                   <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/Gopinathgopi13/Gopinathgopi13/edit/main/README.md" width="32" height="32" /></a>
+                   <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+                   <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
                    <a href="https://www.youtube.com/c/Gopinath Kathirvel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
                    
  Badges<b>My GitHub Stats</b><a
