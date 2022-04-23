@@ -20,8 +20,7 @@ Engineer
                     
                   ### Socials
                   
-                  
-                <p align="left">
+              
                           
                       <a href="https://www.facebook.com/Gopinath Gopi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
                           
