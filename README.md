@@ -17,13 +17,13 @@
 
 I'm a **Software Engineer & Full Stack Developer** with **2.8 years of experience** building scalable web applications and microservices with **JavaScript, TypeScript, React.js and Node.js**. I enjoy owning products end to end — from technical design and REST APIs to databases, security, DevOps and release management in Agile teams.
 
+- 🚀 Currently working on **2 freelance projects**: a **centralized NGO platform** and a **multi-tenant SaaS system**
 - 💼 **Software Engineer | Full Stack Developer** at **Greenbotz Platform Private Limited**, Coimbatore (May 2024 – Present)
 - 🏢 Owned the technical design of a **multi-tenant microservices platform (10+ services)** serving **40+ clients** in Singapore, with 2,000+ residents per client
 - 👥 Led a team of two developers — design decisions, task allocation, code reviews and documentation
 - 📱 Built an **MDM platform** managing 200+ Android devices per client (Next.js, Redux, Node.js, PostgreSQL, MQTT, BullMQ)
 - 🏨 Designed 4 microservices for a **Smart Hotel Management System** handling 500+ check-ins per week, integrated with Oracle Opera Cloud PMS
 - 🔐 Strong in **PostgreSQL optimization, JWT/RBAC security (OWASP), GitLab CI/CD, Docker** and production monitoring with Sentry & Graylog
-- 🚀 Currently working on **2 freelance projects**: a **centralized NGO platform** and a **multi-tenant SaaS system**
 - 🛒 Previously a **Web Developer at Demiurge Design**, Chennai — built a full-stack e-commerce site with Stripe payments and AWS S3
 - 🤖 Use AI tools like **Claude Code, OpenAI Codex and Cursor** to ship faster
 - 🏆 Received an award for delivering a project successfully under a tight deadline
