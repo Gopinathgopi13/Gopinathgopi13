@@ -130,10 +130,6 @@ I'm a **Software Engineer & Full Stack Developer** with **2.8 years of experienc
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gopinathgopi13&theme=tokyonight" alt="Contribution Activity" />
 </p>
 
-<p align="center">
-  <img width="100%" src="https://ghchart.rshah.org/36BCF7/Gopinathgopi13" alt="Contribution Heatmap" />
-</p>
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
