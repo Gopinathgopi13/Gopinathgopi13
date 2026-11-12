@@ -77,7 +77,7 @@ I'm a **Software Engineer & Full Stack Developer** with **2.8 years of experienc
 
 **Integrations**
 
-![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white) ![Firebase FCM](https://img.shields.io/badge/Firebase_FCM-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![WhatsApp](https://img.shields.io/badge/WhatsApp_Notifications-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) ![Email](https://img.shields.io/badge/Email_Notifications-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white) ![Vonage](https://img.shields.io/badge/Vonage-000000?style=for-the-badge&logo=vonage&logoColor=white) ![LiveKit](https://img.shields.io/badge/LiveKit-1F1F1F?style=for-the-badge&logo=livekit&logoColor=white) ![Firebase FCM](https://img.shields.io/badge/Firebase_FCM-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![WhatsApp](https://img.shields.io/badge/WhatsApp_Notifications-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) ![Email](https://img.shields.io/badge/Email_Notifications-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 **AI Tools**
 
@@ -103,29 +103,45 @@ I'm a **Software Engineer & Full Stack Developer** with **2.8 years of experienc
 ## 📊 GitHub Progress
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gopinathgopi13&theme=tokyonight" alt="Profile Details" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1A1B27,100:36BCF7&height=55&section=header&text=GitHub%20Analytics&fontSize=26&fontColor=ffffff&fontAlignY=60" alt="GitHub Analytics" />
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gopinathgopi13&theme=tokyonight" alt="GitHub Stats" /></td>
+    <td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gopinathgopi13&theme=tokyonight&utcOffset=5.5" alt="Productive Time" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gopinathgopi13&theme=tokyonight" alt="Most Commit Language" /></td>
+    <td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gopinathgopi13&theme=tokyonight" alt="Repos per Language" /></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><img src="https://streak-stats.demolab.com/?user=Gopinathgopi13&theme=tokyonight&hide_border=true&background=1A1B27&ring=36BCF7&fire=FF6D00&currStreakLabel=36BCF7&sideLabels=A9B1D6&dates=565F89" alt="GitHub Streak" /></td>
+  </tr>
+</table>
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1A1B27,100:36BCF7&height=55&section=header&text=Contribution%20Activity&fontSize=26&fontColor=ffffff&fontAlignY=60" alt="Contribution Activity" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gopinathgopi13&theme=tokyonight" alt="GitHub Stats" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gopinathgopi13&theme=tokyonight" alt="Most Commit Language" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gopinathgopi13&theme=tokyonight" alt="Contribution Activity" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gopinathgopi13&theme=tokyonight" alt="Repos per Language" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=Gopinathgopi13&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="100%" src="https://ghchart.rshah.org/36BCF7/Gopinathgopi13" alt="Contribution Heatmap" />
 </p>
 
-### 📈 Contribution Graph
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img width="100%" src="https://ghchart.rshah.org/36BCF7/Gopinathgopi13" alt="Contribution Graph" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1A1B27,100:36BCF7&height=55&section=header&text=GitHub%20Trophies&fontSize=26&fontColor=ffffff&fontAlignY=60" alt="Achievements %26 Trophies" />
 </p>
 
-### 🏆 GitHub Trophies
-
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=Gopinathgopi13&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=Gopinathgopi13&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
 ### ✍️ Random Dev Quote
