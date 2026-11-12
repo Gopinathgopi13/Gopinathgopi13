@@ -73,30 +73,29 @@ I'm a **Full Stack Developer** at **Greenbotz Platform Private Limited**, based 
 ## 📊 GitHub Progress
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Gopinathgopi13&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gopinathgopi13&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gopinathgopi13&theme=tokyonight" alt="Profile Details" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Gopinathgopi13&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gopinathgopi13&theme=tokyonight" alt="GitHub Stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gopinathgopi13&theme=tokyonight" alt="Most Commit Language" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gopinathgopi13&theme=tokyonight" alt="Repos per Language" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=Gopinathgopi13&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Gopinathgopi13&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  <img width="100%" src="https://ghchart.rshah.org/36BCF7/Gopinathgopi13" alt="Contribution Graph" />
 </p>
 
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gopinathgopi13&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="Trophies" />
-</p>
-
-### 🔝 Top Contributed Repos
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Gopinathgopi13&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+  <img src="https://github-trophies.vercel.app/?username=Gopinathgopi13&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="Trophies" />
 </p>
 
 ### ✍️ Random Dev Quote
@@ -108,7 +107,7 @@ I'm a **Full Stack Developer** at **Greenbotz Platform Private Limited**, based 
 ---
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Gopinathgopi13&icon=0&color=0" alt="Visitor count" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Gopinathgopi13&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 <p align="center"><i>⭐ Thanks for visiting! Open to collaboration and new opportunities — feel free to reach out.</i></p>
