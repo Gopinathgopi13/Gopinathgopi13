@@ -23,6 +23,7 @@ I'm a **Software Engineer & Full Stack Developer** with **2.8 years of experienc
 - 📱 Built an **MDM platform** managing 200+ Android devices per client (Next.js, Redux, Node.js, PostgreSQL, MQTT, BullMQ)
 - 🏨 Designed 4 microservices for a **Smart Hotel Management System** handling 500+ check-ins per week, integrated with Oracle Opera Cloud PMS
 - 🔐 Strong in **PostgreSQL optimization, JWT/RBAC security (OWASP), GitLab CI/CD, Docker** and production monitoring with Sentry & Graylog
+- 🚀 Currently working on **2 freelance projects**: a **centralized NGO platform** and a **multi-tenant SaaS system**
 - 🛒 Previously a **Web Developer at Demiurge Design**, Chennai — built a full-stack e-commerce site with Stripe payments and AWS S3
 - 🤖 Use AI tools like **Claude Code, OpenAI Codex and Cursor** to ship faster
 - 🏆 Received an award for delivering a project successfully under a tight deadline
